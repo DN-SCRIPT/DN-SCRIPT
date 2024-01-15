@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚒️ We Are currently working on **DN_FIGHT,ESX_NOTIFY_REWORK**
+- ⚒️ We Are currently working on **DN_DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DN-SCRIPT](https://github.com/DN-SCRIPT)
+- 👨‍💻 All of Our projects are available at [https://github.com/DN-SCRIPT](https://github.com/DN-SCRIPT) & [https://dn-script.tebex.io/](https://dn-script.tebex.io/)
 
 - 💬 Ask me about **SCRIPT HELPS ETC**
 

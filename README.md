@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋 WE ARE , DN DEVELOPMENT</h1>
-<h3 align="center">DN DEVELOPMENT IS A FIVEM SCRIPT DEVELOPING AND OTHER CUSTOM WORKS !!</h3>
+<h1 align="center">Hi 👋 WE ARE , BLOSSOM SCRIPTS</h1>
+<h3 align="center">BLOSSOM SCRIPTS IS A FIVEM SCRIPT DEVELOPING AND OTHER CUSTOM WORKS !!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dn-script&label=Profile%20views&color=0e75b6&style=flat" alt="dn-script" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚒️ We Are currently working on **DN_DEVELOPMENT**
+- ⚒️ We Are currently working on **BLOSSOM SCRIPTS**
 
-- 👨‍💻 All of Our projects are available at [https://github.com/DN-SCRIPT](https://github.com/DN-SCRIPT) & [https://dn-script.tebex.io/](https://dn-script.tebex.io/)
+- 👨‍💻 All of Our projects are available at [https://github.com/BLOSSOM SCRIPTS](https://github.com/BLOSSOMSCRIPT) & [https://blossom-scripts.tebex.io/](https://blossom-scripts.tebex.io/)
 
 - 💬 Ask me about **SCRIPT HELPS ETC**
 
-- 📫 How to reach me **https://discord.gg/qVKYeqaWXT**
+- 📫 How to reach me **https://discord.gg/E3q4tuPmSQ**
 
-- ⚡ Fun fact **DN IS .....**
+- ⚡ Fun fact **BLOSSOM SCRIPTS IS .....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
